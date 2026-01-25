@@ -7,7 +7,7 @@ This repository contains all MATLAB code used in the study titled "Region-tailor
 
 **Reproducibility**
 
-All figures and results reported in the manuscript can be reproduced using the scripts provided in this repository. Random seeds used in the genetic algorithm are fixed to ensure reproducibility.
+All figures and results reported in the manuscript can be reproduced using the scripts provided in this repository. 
 
 **Usage**
 
