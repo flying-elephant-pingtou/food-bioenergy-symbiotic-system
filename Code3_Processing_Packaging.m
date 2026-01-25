@@ -68,7 +68,7 @@ package_category(1,4) = {'nonmetal_including glass'};
 package_category(1,5) = {'metal'};
 
 %% Calculate the SFS of packaging
-MRIO_TABLE = 'F:\OneDrive - mails.jlu.edu.cn\科研\paper-3\数据&参数\投入产出表\2017中国省际-李善同.xlsx';
+MRIO_TABLE = 'F:\OneDrive - mails.jlu.edu.cn\科研\paper-3\数据&参数\投入产出表\China_inter_provincial_IO.xlsx';
 Z = readmatrix(MRIO_TABLE,'range','D8:AXE1309'); % Intermediate input matrix
 X = readmatrix(MRIO_TABLE,'range','BDH8:BDH1309'); % Total output (row vector)
 industry = readcell(MRIO_TABLE,'range','C8:C49'); % Industry
