@@ -3,7 +3,7 @@ FBSS Research Data and Code Repository
 
 **Overview**
 
-This repository contains all MATLAB code used in the study titled "Region-tailored food-bioenergy symbiotic systems unlock appreciable climate benefits in China". All data and scripts required for inventorying emissions of 30 provincial regionsin CHina and operating the multi-objective optimization model for exploring the FBSS are available here.
+This repository contains all MATLAB code used in the study titled "Region-tailored food-bioenergy symbiotic systems unlock appreciable climate benefits in China". All data and scripts required for inventorying emissions of 30 provincial regionsin China and operating the multi-objective optimization model for exploring the FBSS are available here.
 
 **Reproducibility**
 
